@@ -1,22 +1,29 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public List<String> summaryRanges(int[] nums) {
-        List<String> result = new ArrayList<>();
-        if (nums.length == 0) return result;
+         List<String> ans = new ArrayList<>();
 
-        int start = nums[0];
-        for (int i = 1; i <= nums.length; i++) {
-            if (i == nums.length || nums[i] != nums[i - 1] + 1) {
-                if (start == nums[i - 1]) {
-                    result.add(String.valueOf(start));
-                } else {
-                    result.add(start + "->" + nums[i - 1]);
-                }
-                if (i < nums.length) start = nums[i];
+        int i = 0;
+
+        while (i < nums.length) {
+
+            int start = nums[i];
+
+            // move while consecutive
+            while (i + 1 < nums.length && nums[i + 1] == nums[i] + 1) {
+                i++;
             }
+
+            int end = nums[i];
+
+            if (start == end) {
+                ans.add(String.valueOf(start));
+            } else {
+                ans.add(start + "->" + end);
+            }
+
+            i++;
         }
-        return result;
+
+        return ans;
     }
 }
