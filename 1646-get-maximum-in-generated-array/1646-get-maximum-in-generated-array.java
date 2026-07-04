@@ -5,9 +5,7 @@ class Solution {
         if(n==0)return 0;
         a[0]=0;
         a[1]=1;
-        int j=1;
-        int k=1;
-        int l=2;
+        int j=1,k=1,l=2;
         for(int i=2;i<a.length;i++){
             if(i%2==0){
                 a[i]=a[j];
