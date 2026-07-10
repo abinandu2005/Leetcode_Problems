@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
