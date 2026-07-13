@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Binary Search
 |  |
 | ------- |
