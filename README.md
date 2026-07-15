@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
