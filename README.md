@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1089-duplicate-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
