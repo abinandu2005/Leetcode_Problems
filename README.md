@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+| [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1046-last-stone-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
