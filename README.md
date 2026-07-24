@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
