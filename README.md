@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
+| [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
