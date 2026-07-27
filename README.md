@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
+| [2553-separate-the-digits-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
