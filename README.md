@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3110-score-of-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3110-score-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
