@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3110-score-of-a-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Stack
 |  |
