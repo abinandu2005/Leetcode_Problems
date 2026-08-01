@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0748-shortest-completing-word](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
