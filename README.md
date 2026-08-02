@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
