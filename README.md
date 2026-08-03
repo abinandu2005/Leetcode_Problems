@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0290-word-pattern) |
+| [0318-maximum-product-of-word-lengths](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0392-is-subsequence) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
