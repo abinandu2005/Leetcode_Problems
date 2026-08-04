@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1163-last-substring-in-lexicographical-order) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
