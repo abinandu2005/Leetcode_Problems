@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1163-last-substring-in-lexicographical-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
