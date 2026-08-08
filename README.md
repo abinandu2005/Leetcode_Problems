@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0162-find-peak-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
