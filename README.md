@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
 | [0575-distribute-candies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0682-baseball-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+| [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
 ## Enumeration
 |  |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
