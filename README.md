@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1534-count-good-triplets) |
+| [1773-count-items-matching-a-rule](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3110-score-of-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3110-score-of-a-string) |
