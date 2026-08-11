@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1534-count-good-triplets) |
 | [1773-count-items-matching-a-rule](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1163-last-substring-in-lexicographical-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [1122-relative-sort-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
