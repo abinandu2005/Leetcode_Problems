@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
