@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0342-power-of-four](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
@@ -266,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0528-random-pick-with-weight) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
