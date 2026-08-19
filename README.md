@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1534-count-good-triplets) |
+| [1720-decode-xored-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1720-decode-xored-array) |
 | [1773-count-items-matching-a-rule](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1720-decode-xored-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1720-decode-xored-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
