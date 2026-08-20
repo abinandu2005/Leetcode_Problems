@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
