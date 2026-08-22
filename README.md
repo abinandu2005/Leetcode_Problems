@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2525-categorize-box-according-to-criteria](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2525-categorize-box-according-to-criteria) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
