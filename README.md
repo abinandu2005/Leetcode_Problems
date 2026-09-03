@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3110-score-of-a-string) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3941-password-strength) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Sliding Window
 |  |
 | ------- |
