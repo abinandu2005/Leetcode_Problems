@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
