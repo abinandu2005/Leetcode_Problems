@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/abinandu2005/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2525-categorize-box-according-to-criteria](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2525-categorize-box-according-to-criteria) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
