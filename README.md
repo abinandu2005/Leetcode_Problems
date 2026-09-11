@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3046-split-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
+| [3046-split-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3941-password-strength](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3941-password-strength) |
 ## Sorting
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3046-split-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
