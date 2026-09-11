@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3794-reverse-string-prefix) |
+| [3803-count-residue-prefixes](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3803-count-residue-prefixes) |
 | [3941-password-strength](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3941-password-strength) |
 ## Simulation
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [3046-split-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3803-count-residue-prefixes](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3803-count-residue-prefixes) |
 | [3941-password-strength](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3941-password-strength) |
 ## Sorting
 |  |
