@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2363-merge-similar-items](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/abinandu2005/Leetcode_Problems/tree/master/1046-last-stone-weight) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
