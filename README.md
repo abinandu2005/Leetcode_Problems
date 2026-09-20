@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2465-number-of-distinct-averages](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2418-sort-the-people) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3110-score-of-a-string](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3110-score-of-a-string) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
