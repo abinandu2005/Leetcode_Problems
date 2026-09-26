@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/abinandu2005/Leetcode_Problems/tree/master/2525-categorize-box-according-to-criteria) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abinandu2005/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
